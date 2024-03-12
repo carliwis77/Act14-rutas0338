@@ -19,5 +19,6 @@ https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 
 - ![image](https://github.com/carliwis77/Act14-rutas0338/assets/146237906/49148a91-67a1-4af1-88e1-9571f1f03a93)
 ![image](https://github.com/carliwis77/Act14-rutas0338/assets/146237906/0f9d1259-9fa2-4ac8-983a-a04402e336e2)
+![image](https://github.com/carliwis77/Act14-rutas0338/assets/146237906/af225bbb-c918-4f5a-9ee7-9864c2811418)
 
-![image](https://github.com/carliwis77/Act14-rutas0338/assets/146237906/9be6d4ce-261b-4073-9bc2-6f34330c4330)
+
